@@ -7,7 +7,6 @@ A higher-order component is a function that takes a component and returns a new 
 - create a common folder, inside the common folder create the HOC folder (higher order component).
 - create the inside the HOC HOC.jsx
 
-## Here I'm using some css for better look.
 
 ```
 import React from "react";
