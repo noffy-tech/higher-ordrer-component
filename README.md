@@ -69,3 +69,5 @@ function Counter() {
 }
 export default App;
 ```
+# Output:
+![](https://miro.medium.com/max/700/1*7Nl3g0cjgh5AmJz_a-YlDg.png)
